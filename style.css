@@ -1,5 +1,9 @@
-body {
+@font-face {
     font-family: myFirstFont;
     src: url(ProductSans-Regular.ttf);
 }
   
+body {
+    font-family: myFirstFont;
+    color = blue;
+}
